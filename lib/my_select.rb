@@ -7,9 +7,9 @@
 #       result.push(collection[i])
 #     end
       i += 1 
-#   end 
+  end 
 new_array
-# end
+end
 
 
 # def my_select(array) 
